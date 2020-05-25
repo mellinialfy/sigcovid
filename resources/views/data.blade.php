@@ -7,6 +7,7 @@
   <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="/assets/images/logo-162x162.png" type="image/x-icon">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
   <meta name="description" content="Peta Sebaran Covid19">
   
   
