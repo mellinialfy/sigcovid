@@ -425,7 +425,7 @@
 
       });
 
-      var invocation = new XMLHttpRequest();
+      // var invocation = new XMLHttpRequest();
 
     // Instantiate KMZ parser (async)
     var kmzParser = new L.KMZParser({
